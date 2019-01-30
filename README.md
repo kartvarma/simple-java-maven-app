@@ -14,5 +14,6 @@ you'll be creating yourself during the tutorial and the `scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
 
-ADDING NEW COMMENTS TO TEST IF THE CHANGES CAN BE REFLECTED BACK TO GITHUB
+
+These are new comments after trying with SSH key. Also removed old comments.
 
